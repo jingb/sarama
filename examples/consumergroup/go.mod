@@ -1,5 +1,7 @@
-module github.com/Shopify/sarama/examples/consumer
+module github.com/jingb/sarama/examples/consumer
 
-replace github.com/Shopify/sarama => ../../
+go 1.15
 
-require github.com/Shopify/sarama v1.22.0
+replace github.com/jingb/sarama => ../../
+
+require github.com/jingb/sarama v1.22.0

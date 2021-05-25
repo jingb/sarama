@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Shopify/sarama"
+	"github.com/jingb/sarama"
 
 	"crypto/tls"
 	"crypto/x509"
